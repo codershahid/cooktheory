@@ -1,0 +1,1 @@
+A simple javascript application that allows a user to search recipes. The application fetches the recipes from a remote API. Displays a list of matching recipes with pagination. The user select the number of servings and will get the respective ingredient quantity. Application uses browser local storage to save a recipe in "Favourite" list.

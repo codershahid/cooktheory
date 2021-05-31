@@ -1,0 +1,22 @@
+{
+  "name": "ct",
+  "version": "1.0.0",
+  "description": "Search from a wide range of recipies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codershahid/cooktheory.git"
+  },
+  "keywords": [
+    "cooking"
+  ],
+  "author": "Shahid Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codershahid/cooktheory/issues"
+  },
+  "homepage": "https://github.com/codershahid/cooktheory#readme"
+}
